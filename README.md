@@ -1,5 +1,5 @@
 # nginx-webdav
-Docker image to run webdav server using nginx
+Docker image to run webdav server using nginx. This image is available as garo5/nginx-webdav
 
 Usage:
 
